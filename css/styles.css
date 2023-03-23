@@ -37,3 +37,16 @@ color: yellowgreen;
 #akiraimage{
   text-align: center;
 }
+
+#sketchbook{
+  font-size: 100px;
+  background-color:mediumorchid ;
+  color:black;
+  text-align: center;
+}
+#sketchbooktext{
+  text-align: center;
+}
+#sketchbookimage{
+  text-align: center;
+}
