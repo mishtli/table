@@ -14,12 +14,19 @@ p{
   color: blue;
 }
 
+/*
 p{
   width: 10px;
 }
-
+*/
 #soho{
   background-color: greenyellow;
   color: red;
+
+}
+
+#akiratext{
+  
+  justify-content: center;
 
 }
