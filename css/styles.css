@@ -77,3 +77,45 @@ text-align: center;
 #mulata-stereotype{
   text-align: center;
 }
+
+
+#mulata-recipe{
+ color:rgb(14, 68, 50);
+ text-align: center;
+ font-size: 30px;
+ padding: 40px; 
+
+}
+
+
+#representation{
+  color:darkorange;
+  font-size:30px;
+  padding: 20px;
+  text-align: center;
+  text-decoration:underline;
+  text-decoration-color: crimson;
+  background-color:rgb(146, 99, 12);
+  border: 4px;
+  border-radius: 35px;
+  border-color: rgb(208, 208, 9);
+  border-style: dotted;
+
+
+
+
+
+}
+
+/*#exotic-ingredients{
+  text-align: center;
+  font-size: 40px;
+  font-weight: 100px;
+  color:rgb(154, 70, 6)
+}*/
+
+#author{
+  color:darkgoldenrod;
+  text-align: center;
+  font-size: 15px;
+}
